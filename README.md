@@ -1,5 +1,5 @@
 # Logistic_regression
-Implemented Breast Cancer Detection using Logistic Regession model
+Implemented Breast Cancer Detection using Logistic Regession model with an accuracy of 96.7%
 
 STEPS PERFORMED:
 1. DATA PREPROCESSING
